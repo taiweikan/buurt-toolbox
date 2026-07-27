@@ -1,7 +1,290 @@
-<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Buurt Toolbox</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><link rel="stylesheet" href="styles.css"></head><body>
-<header><b>BT</b><strong>Buurt Toolbox</strong><span>Kaart & analyse · Interventies · Scenario's · Rapport</span><button onclick="location.reload()">Reset</button></header>
-<main><aside><small>PROJECT</small><h1>Overtoomse Veld Noord</h1><p>Dummyproject · Amsterdam Nieuw-West</p><select><option>Overtoomse Veld Noord</option><option>Nieuw-Vennep Centrum</option></select><button id="run">▶ RUN GEBIEDSANALYSE</button><h2>Analysemodules</h2><div id="modules"></div><em>Voorbeelddata: CBS · BAG · BGT · OSM · participatie</em></aside>
-<section><div id="map"></div><div class="filters"><button data-f="all">Alle</button><button data-f="groen">Groen</button><button data-f="veiligheid">Veiligheid</button><button data-f="ontmoeting">Ontmoeting</button><button data-f="mobiliteit">Mobiliteit</button></div><div id="overlay" class="hide"><div class="spin"></div><h2>Gebiedsanalyse uitvoeren</h2><p id="status"></p><div class="track"><i id="bar"></i></div></div></section>
-<aside class="right"><div class="tabs"><button data-t="profiel">Profiel</button><button data-t="opgaven">Opgaven</button><button data-t="kansen">Kansen</button></div><div id="profiel" class="tab active"><div id="empty"><h2>Nog geen analyse</h2><p>Start de analyse om scores en ontwerpkansen te tonen.</p></div><div id="scores" class="hide"></div></div><div id="opgaven" class="tab"></div><div id="kansen" class="tab"></div></aside></main>
-<div id="drawer" class="drawer hide"><button onclick="drawer.classList.add('hide')">×</button><div id="detail"></div></div>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Buurt Toolbox — Urban Design Intelligence</title>
+  <meta name="description" content="Klikbare UX-dummy voor een data-gedreven gebiedsanalyse.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">BT</div>
+        <div>
+          <strong>Buurt Toolbox</strong>
+          <span>Urban Design Intelligence</span>
+        </div>
+      </div>
+
+      <nav class="topnav" aria-label="Hoofdnavigatie">
+        <button class="topnav-item active">Kaart & analyse</button>
+        <button class="topnav-item" id="openLibrary">Interventies</button>
+        <button class="topnav-item">Scenario's</button>
+        <button class="topnav-item">Rapport</button>
+      </nav>
+
+      <div class="topbar-actions">
+        <button class="icon-button" title="Meldingen">●</button>
+        <button class="profile-button">
+          <span class="avatar">TW</span>
+          <span class="profile-copy">
+            <strong>Tai Wei</strong>
+            <small>Ontwerper</small>
+          </span>
+        </button>
+      </div>
+    </header>
+
+    <main class="workspace">
+      <aside class="sidebar">
+        <div class="project-card">
+          <span class="eyebrow">ACTIEF PROJECT</span>
+          <div class="project-row">
+            <div>
+              <h1>Overtoomse Veld Noord</h1>
+              <p>Amsterdam Nieuw-West</p>
+            </div>
+            <button class="icon-button">•••</button>
+          </div>
+          <div class="project-meta">
+            <span>Dummyproject</span>
+            <span>Bijgewerkt zojuist</span>
+          </div>
+        </div>
+
+        <div class="sidebar-section">
+          <label for="neighborhood">Buurtselectie</label>
+          <select id="neighborhood">
+            <option value="overtoomse">Overtoomse Veld Noord</option>
+            <option value="nieuwvennep">Nieuw-Vennep Centrum</option>
+            <option value="rotterdam">Rotterdam Zuid — demo</option>
+          </select>
+
+          <button id="runAnalysis" class="primary-action">
+            <span>▶</span>
+            <strong>Run gebiedsanalyse</strong>
+          </button>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="section-heading">
+            <div>
+              <span class="eyebrow">ANALYSE</span>
+              <h2>Datamodules</h2>
+            </div>
+            <span class="count-badge">8</span>
+          </div>
+          <div id="moduleList" class="module-list"></div>
+        </div>
+
+        <div class="sidebar-section">
+          <div class="source-panel">
+            <div class="source-status">
+              <span class="status-ring"></span>
+              <div>
+                <strong>Databronnen gereed</strong>
+                <small>Dummydata actief</small>
+              </div>
+            </div>
+            <div class="source-tags">
+              <span>CBS</span><span>BAG</span><span>BGT</span><span>OSM</span>
+            </div>
+          </div>
+          <p class="disclaimer">Deze versie gebruikt transparante voorbeeldregels. De UX is voorbereid op echte data.</p>
+        </div>
+      </aside>
+
+      <section class="map-stage">
+        <div id="map"></div>
+
+        <div class="map-topbar">
+          <div class="search-box">
+            <span>⌕</span>
+            <input id="mapSearch" placeholder="Zoek locatie, opgave of interventie">
+          </div>
+
+          <div class="map-actions">
+            <button class="map-action active" data-theme="all">Alle kansen</button>
+            <button class="map-action" data-theme="groen">Groen</button>
+            <button class="map-action" data-theme="veiligheid">Veiligheid</button>
+            <button class="map-action" data-theme="ontmoeting">Ontmoeting</button>
+            <button class="map-action" data-theme="mobiliteit">Mobiliteit</button>
+          </div>
+        </div>
+
+        <div class="map-summary">
+          <span class="eyebrow">GEBIEDSPROFIEL</span>
+          <div class="summary-row">
+            <div>
+              <strong id="summaryScore">—</strong>
+              <small>totale score</small>
+            </div>
+            <div class="divider"></div>
+            <div>
+              <strong id="summaryIssues">—</strong>
+              <small>opgaven</small>
+            </div>
+            <div class="divider"></div>
+            <div>
+              <strong id="summaryOpportunities">—</strong>
+              <small>kansen</small>
+            </div>
+          </div>
+        </div>
+
+        <div class="map-legend">
+          <span><i class="dot green"></i>Groen</span>
+          <span><i class="dot red"></i>Veiligheid</span>
+          <span><i class="dot orange"></i>Ontmoeting</span>
+          <span><i class="dot blue"></i>Mobiliteit</span>
+        </div>
+
+        <div id="analysisOverlay" class="analysis-overlay hidden">
+          <div class="analysis-card">
+            <div class="loader-orbit"><span></span></div>
+            <span class="eyebrow">LIVE ANALYSE</span>
+            <h2>Gebiedsprofiel opbouwen</h2>
+            <p id="analysisStatus">Databronnen voorbereiden…</p>
+            <div class="progress-track">
+              <div id="progressBar" class="progress-bar"></div>
+            </div>
+            <div id="analysisSteps" class="analysis-steps"></div>
+          </div>
+        </div>
+      </section>
+
+      <aside class="insights-panel">
+        <div class="panel-tabs">
+          <button class="panel-tab active" data-tab="overview">Overzicht</button>
+          <button class="panel-tab" data-tab="issues">Opgaven</button>
+          <button class="panel-tab" data-tab="opportunities">Kansen</button>
+        </div>
+
+        <div id="overview" class="panel-view active">
+          <div id="emptyState" class="empty-state">
+            <div class="empty-illustration">⌁</div>
+            <h2>Klaar voor analyse</h2>
+            <p>Start de gebiedsanalyse om scores, ruimtelijke opgaven en kansrijke locaties zichtbaar te maken.</p>
+            <div class="empty-steps">
+              <span>1. Analyseer data</span>
+              <span>2. Bekijk opgaven</span>
+              <span>3. Verken interventies</span>
+            </div>
+          </div>
+
+          <div id="overviewResults" class="hidden">
+            <div class="hero-score">
+              <div class="score-ring">
+                <svg viewBox="0 0 42 42">
+                  <circle cx="21" cy="21" r="16" class="ring-bg"></circle>
+                  <circle id="ringValue" cx="21" cy="21" r="16" class="ring-value"></circle>
+                </svg>
+                <div>
+                  <strong id="bigScore">58</strong>
+                  <span>/100</span>
+                </div>
+              </div>
+              <div>
+                <span class="eyebrow">GEBIEDSKWALITEIT</span>
+                <h2>Gemengd profiel</h2>
+                <p>Goede bereikbaarheid, maar duidelijke kansen voor ontmoeting, schaduw en sociale veiligheid.</p>
+              </div>
+            </div>
+
+            <div class="section-heading compact">
+              <div>
+                <span class="eyebrow">INDICATOREN</span>
+                <h2>Gebiedsscores</h2>
+              </div>
+            </div>
+            <div id="scoreGrid" class="score-grid"></div>
+
+            <button class="secondary-action full-width" data-switch="issues">Bekijk belangrijkste opgaven →</button>
+          </div>
+        </div>
+
+        <div id="issues" class="panel-view">
+          <div class="panel-intro">
+            <span class="eyebrow">PRIORITEIT</span>
+            <h2>Belangrijkste gebiedsopgaven</h2>
+            <p>De opgaven zijn afgeleid uit combinaties van indicatoren en ingestelde drempelwaarden.</p>
+          </div>
+          <div id="issueList" class="issue-list"></div>
+        </div>
+
+        <div id="opportunities" class="panel-view">
+          <div class="panel-intro">
+            <span class="eyebrow">OPPORTUNITY MAP</span>
+            <h2>8 kansrijke locaties</h2>
+            <p>Iedere locatie bevat een diagnose, ontwerpuitdaging en set interventies.</p>
+          </div>
+          <div id="opportunityList" class="opportunity-list"></div>
+        </div>
+      </aside>
+    </main>
+
+    <button id="chatToggle" class="chat-launcher">
+      <span>✦</span>
+      <strong>Buurtassistent</strong>
+    </button>
+
+    <section id="chatPanel" class="chat-panel hidden">
+      <div class="chat-header">
+        <div class="chat-title">
+          <div class="chat-avatar">✦</div>
+          <div>
+            <strong>Buurtassistent</strong>
+            <small>Rule-based prototype</small>
+          </div>
+        </div>
+        <button id="closeChat" class="icon-button">×</button>
+      </div>
+
+      <div id="chatSuggestions" class="chat-suggestions">
+        <button>Wat zijn de belangrijkste opgaven?</button>
+        <button>Toon groene kansen</button>
+        <button>Beste plek voor ontmoeting?</button>
+        <button>Welke data ontbreekt?</button>
+      </div>
+
+      <div id="chatMessages" class="chat-messages">
+        <div class="chat-message assistant">
+          <span class="chat-bubble-icon">✦</span>
+          <div>
+            Stel een vraag over de analyse. Ik kan locaties verklaren, thema's filteren en ontwerpinterventies tonen.
+          </div>
+        </div>
+      </div>
+
+      <form id="chatForm" class="chat-form">
+        <input id="chatInput" type="text" placeholder="Vraag iets over deze buurt…" autocomplete="off">
+        <button type="submit">↗</button>
+      </form>
+    </section>
+
+    <aside id="detailDrawer" class="detail-drawer hidden">
+      <button id="closeDrawer" class="drawer-close">×</button>
+      <div id="drawerContent"></div>
+    </aside>
+
+    <div id="libraryModal" class="modal hidden">
+      <div class="modal-card">
+        <button id="closeLibrary" class="drawer-close">×</button>
+        <span class="eyebrow">INTERVENTIEBIBLIOTHEEK</span>
+        <h2>Ruimtelijke interventies</h2>
+        <p class="modal-intro">Voorbeeldbibliotheek gekoppeld aan de diagnoses uit de gebiedsanalyse.</p>
+        <div id="libraryGrid" class="library-grid"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
