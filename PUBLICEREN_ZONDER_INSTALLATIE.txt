@@ -1,0 +1,32 @@
+BUURT TOOLBOX – PUBLICEREN ZONDER SOFTWARE TE INSTALLEREN
+
+De applicatie is een statische website. Er is geen Node.js, Python of andere
+software nodig op de computer waarop de website wordt bekeken.
+
+MOGELIJKHEID A — GITHUB PAGES
+1. Maak via github.com een nieuwe repository.
+2. Upload de inhoud van deze map via de browser.
+3. Ga naar Settings > Pages.
+4. Kies Deploy from a branch, branch main, folder /(root).
+5. Na publicatie ontstaat een URL:
+   https://<account>.github.io/<repository>/
+
+MOGELIJKHEID B — NETLIFY DROP
+1. Open app.netlify.com/drop.
+2. Sleep deze complete map of ZIP in het browservenster.
+3. Netlify geeft direct een openbare URL.
+
+MOGELIJKHEID C — VERCEL
+1. Maak via vercel.com een nieuw project.
+2. Importeer een GitHub-repository met deze bestanden.
+3. Framework preset: Other.
+4. Build command: leeg.
+5. Output directory: .
+
+BELANGRIJK
+- Voor publicatie is eenmalig uploaden naar een hostingdienst nodig.
+- Daarna kan iedereen de URL openen zonder iets te downloaden of installeren.
+- Werkgevers kunnen GitHub Pages, Netlify, Vercel, PDOK of OpenStreetMap blokkeren.
+  In dat geval moet de website via de interne Azure/SharePoint/webhosting van
+  de organisatie worden gepubliceerd.
+- De huidige analysescores zijn demonstratief.

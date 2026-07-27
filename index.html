@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Buurt Toolbox Kaartviewer – Prototype</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <strong>Buurt Toolbox Kaartviewer</strong>
+      <span class="prototype-badge">lokaal prototype</span>
+    </div>
+    <div class="top-actions">
+      <button id="exportBtn">Exporteer project</button>
+      <button id="resetBtn" class="secondary">Reset</button>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <aside class="sidebar left-panel">
+      <section>
+        <h2>1. Zoek of selecteer een buurt</h2>
+        <div class="search-row">
+          <input id="placeSearch" placeholder="Adres, buurt of plaats">
+          <button id="placeSearchBtn">Zoek</button>
+        </div>
+        <p class="hint">Klik daarna op een buurtvlak. De viewer gebruikt de CBS Wijk- en Buurtkaart 2025 via PDOK.</p>
+        <div id="selectedArea" class="selected-area empty">Nog geen buurt geselecteerd.</div>
+      </section>
+
+      <section>
+        <h2>2. Analysekaarten</h2>
+        <label class="toggle"><input type="checkbox" data-layer="traffic" checked> Verkeer en bereikbaarheid</label>
+        <label class="toggle"><input type="checkbox" data-layer="safety" checked> Veiligheid</label>
+        <label class="toggle"><input type="checkbox" data-layer="cohesion" checked> Sociale cohesie</label>
+        <label class="toggle"><input type="checkbox" data-layer="livability" checked> Leefbaarheid</label>
+        <label class="toggle"><input type="checkbox" data-layer="green" checked> Groen en klimaat</label>
+        <label class="toggle"><input type="checkbox" data-layer="meeting" checked> Ontmoetingspotentie</label>
+        <p class="hint warning">De scores in deze eerste dummy zijn demonstratief. De kaartstructuur is voorbereid om later echte bronnen te koppelen.</p>
+      </section>
+
+      <section>
+        <h2>3. Lokale documentatie</h2>
+        <input id="docUpload" type="file" multiple accept=".txt,.csv,.json,.pdf,.doc,.docx">
+        <textarea id="participationText" rows="5" placeholder="Plak hier een observatie of citaat uit participatie, bijvoorbeeld: 'Ouderen vermijden het plein in de avond omdat het donker en druk is.'"></textarea>
+        <div class="search-row">
+          <select id="signalTheme">
+            <option value="ontmoeting">Ontmoeting</option>
+            <option value="veiligheid">Veiligheid</option>
+            <option value="verkeer">Verkeer</option>
+            <option value="groen">Groen</option>
+            <option value="cohesie">Sociale cohesie</option>
+            <option value="toegankelijkheid">Toegankelijkheid</option>
+          </select>
+          <button id="addSignalBtn">Plaats signaal</button>
+        </div>
+        <p class="hint">Klik eerst op de kaart om de locatie van het signaal te kiezen. Bestanden blijven lokaal in de browser.</p>
+        <div id="documentList" class="compact-list"></div>
+      </section>
+    </aside>
+
+    <section class="map-stage">
+      <div id="map"></div>
+      <div id="mapStatus" class="map-status">Buurtgrenzen laden zodra de kaart beweegt…</div>
+      <div class="map-legend">
+        <div><span class="legend-swatch neighborhood"></span> CBS-buurt</div>
+        <div><span class="legend-dot signal"></span> bewonerssignaal</div>
+        <div><span class="legend-dot intervention"></span> interventie</div>
+      </div>
+    </section>
+
+    <aside class="sidebar right-panel">
+      <nav class="tabs">
+        <button class="tab active" data-tab="analysis">Analyse</button>
+        <button class="tab" data-tab="signals">Signalen</button>
+        <button class="tab" data-tab="toolbox">Toolbox</button>
+      </nav>
+
+      <div id="analysisTab" class="tab-content active">
+        <h2>Buurtprofiel</h2>
+        <div id="analysisCards" class="metric-grid">
+          <div class="empty-state">Selecteer een buurt om het profiel te bekijken.</div>
+        </div>
+        <div id="analysisNotes"></div>
+      </div>
+
+      <div id="signalsTab" class="tab-content">
+        <h2>Lokale signalen</h2>
+        <div id="signalList" class="card-list">
+          <div class="empty-state">Nog geen signalen geplaatst.</div>
+        </div>
+      </div>
+
+      <div id="toolboxTab" class="tab-content">
+        <h2>Interventietoolbox</h2>
+        <input id="toolboxSearch" placeholder="Zoek op interventie, effect of doelgroep">
+        <div class="filter-row">
+          <select id="themeFilter"><option value="">Alle thema’s</option></select>
+          <select id="sourceFilter"><option value="">Alle bronnen</option></select>
+        </div>
+        <div id="recommendationSummary" class="recommendation-summary">
+          Selecteer een buurt en voeg lokale signalen toe voor aanbevelingen.
+        </div>
+        <div id="toolboxList" class="card-list"></div>
+      </div>
+    </aside>
+  </main>
+
+  <dialog id="interventionDialog">
+    <form method="dialog">
+      <button class="dialog-close" value="close">×</button>
+      <div id="dialogContent"></div>
+      <div class="dialog-actions">
+        <button id="pinInterventionBtn" type="button">Plaats op gekozen kaartlocatie</button>
+        <button value="close" class="secondary">Sluiten</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3937 @@
+[
+  {
+    "id": "OFO-001",
+    "theme": "Algemeen",
+    "subtheme": "Tussenruimte",
+    "type": "Ruimtelijk principe",
+    "title": "Ontwerp openbare privéruimten",
+    "description": "Maak openbare ruimten met de schaal en geborgenheid van een privéruimte, waar aanspreken logisch en niet bedreigend voelt.",
+    "effects": [
+      "Terloopse ontmoeting",
+      "vertrouwen"
+    ],
+    "domains": [
+      "Openbare ruimte",
+      "gebouw"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "11",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-002",
+    "theme": "Algemeen",
+    "subtheme": "Aanleiding tot contact",
+    "type": "Inrichting",
+    "title": "Voeg een gespreksonderwerp toe",
+    "description": "Gebruik kunst, uitzicht, spel, dieren of een andere gedeelde aandachtstrekker als aanleiding voor een gesprek ('triangulation').",
+    "effects": [
+      "Gesprek",
+      "contact tussen onbekenden"
+    ],
+    "domains": [
+      "Openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "11",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-003",
+    "theme": "Algemeen",
+    "subtheme": "Zitgelegenheid",
+    "type": "Inrichting",
+    "title": "Plaats zitplekken onder een hoek",
+    "description": "Plaats banken zo dat contact mogelijk is zonder mensen te dwingen recht tegenover of te dicht bij elkaar te zitten.",
+    "effects": [
+      "Informele gesprekken"
+    ],
+    "domains": [
+      "Openbare ruimte",
+      "collectieve ruimte"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "11",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-004",
+    "theme": "Algemeen",
+    "subtheme": "Zitgelegenheid",
+    "type": "Inrichting",
+    "title": "Gebruik halfronde banken",
+    "description": "Gebruik een halfronde opstelling om zichtcontact en gesprek tussen meerdere gebruikers te vergemakkelijken.",
+    "effects": [
+      "Informele gesprekken",
+      "groepscontact"
+    ],
+    "domains": [
+      "Openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "11",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-005",
+    "theme": "Algemeen",
+    "subtheme": "Tussenruimte",
+    "type": "Ruimtelijk principe",
+    "title": "Geef overgangsruimten voldoende maat",
+    "description": "Geef routes, collectieve ruimten en zones tussen openbaar en privé voldoende afmeting en verblijfskwaliteit.",
+    "effects": [
+      "Stilstaan",
+      "begroeten",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Openbare ruimte",
+      "gebouw"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "10",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-006",
+    "theme": "Algemeen",
+    "subtheme": "Tussenruimte",
+    "type": "Kwaliteit",
+    "title": "Maak overgangsruimten veilig en vertrouwd",
+    "description": "Zorg dat gedeelde tussenruimten leesbaar, veilig en vertrouwd aanvoelen.",
+    "effects": [
+      "Veiligheid",
+      "thuisgevoel",
+      "contact"
+    ],
+    "domains": [
+      "Openbare ruimte",
+      "gebouw"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "10",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-007",
+    "theme": "Algemeen",
+    "subtheme": "Tussenruimte",
+    "type": "Inrichting",
+    "title": "Maak ruimte om even stil te staan",
+    "description": "Voorkom dat routes uitsluitend verkeersruimte zijn; voeg plekken toe waar bewoners kunnen wachten, treuzelen of praten.",
+    "effects": [
+      "Terloopse ontmoeting"
+    ],
+    "domains": [
+      "Openbare ruimte",
+      "gebouw"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "10",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-010",
+    "theme": "Buurt",
+    "subtheme": "Netwerk van ruimtes",
+    "type": "Stedenbouw",
+    "title": "Ontwerp een gelaagd netwerk van straten, stegen, pleinen en parken",
+    "description": "Laat openbare ruimten vernauwen en verwijden en natuurlijk op elkaar aansluiten.",
+    "effects": [
+      "Ontmoeting onderweg",
+      "verblijf"
+    ],
+    "domains": [
+      "Buurt",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "12",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-011",
+    "theme": "Buurt",
+    "subtheme": "Schaal",
+    "type": "Stedenbouw",
+    "title": "Maak kleinere pleinen en smallere straten",
+    "description": "Gebruik kleinere ruimten om geborgenheid, menselijke maat en een grotere kans op ontmoeting te creëren.",
+    "effects": [
+      "Geborgenheid",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "12",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-012",
+    "theme": "Buurt",
+    "subtheme": "Microklimaat",
+    "type": "Stedenbouw",
+    "title": "Maak een schakering van kleinere buitenruimten",
+    "description": "Een reeks kleinere ruimtes verbetert microklimaat en stimuleert langer verblijf.",
+    "effects": [
+      "Verblijf",
+      "welzijn"
+    ],
+    "domains": [
+      "Buurt",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "12",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-013",
+    "theme": "Buurt",
+    "subtheme": "Mobiliteit",
+    "type": "Mobiliteit",
+    "title": "Ontwerp de buurt voor wandelaars",
+    "description": "Geef lopen prioriteit boven autoverkeer om ontmoetingskansen te vergroten.",
+    "effects": [
+      "Bewegen",
+      "toevallige ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "12",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-014",
+    "theme": "Buurt",
+    "subtheme": "Mobiliteit",
+    "type": "Mobiliteit",
+    "title": "Stimuleer fietsen",
+    "description": "Maak fietsen aantrekkelijk als sociaal zichtbare en toegankelijke verplaatsingswijze.",
+    "effects": [
+      "Bewegen",
+      "levendigheid"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "12",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-015",
+    "theme": "Buurt",
+    "subtheme": "Toegankelijkheid",
+    "type": "Inclusief ontwerp",
+    "title": "Ontwerp voor mobiliteitsbeperkingen",
+    "description": "Maak routes en ruimten bruikbaar voor onder meer rolstoel- en rollatorgebruikers.",
+    "effects": [
+      "Inclusie",
+      "zelfstandigheid"
+    ],
+    "domains": [
+      "Buurt",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Mensen met mobiliteitsbeperking",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "12",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-016",
+    "theme": "Buurt",
+    "subtheme": "Toegankelijkheid",
+    "type": "Inclusief ontwerp",
+    "title": "Ontwerp voor visuele en auditieve beperkingen",
+    "description": "Neem ook zintuiglijke toegankelijkheid mee in de woonomgeving.",
+    "effects": [
+      "Inclusie",
+      "veiligheid"
+    ],
+    "domains": [
+      "Buurt",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Mensen met visuele of auditieve beperking"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "12",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-017",
+    "theme": "Buurt",
+    "subtheme": "Stedenbouwkundig grid",
+    "type": "Stedenbouw",
+    "title": "Varieer het grid voor diversiteit en beschutting",
+    "description": "Vermijd uitsluitend orthogonale en repetitieve buitenruimten; maak differentiatie en beschutte plekken.",
+    "effects": [
+      "Menselijke maat",
+      "verblijf"
+    ],
+    "domains": [
+      "Buurt"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "13",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-018",
+    "theme": "Buurt",
+    "subtheme": "Groen",
+    "type": "Landschap",
+    "title": "Maak bereikbaar groen voor verschillende doelgroepen",
+    "description": "Leg een netwerk van toegankelijke groene plekken aan voor gezondheid, ontspanning en ontmoeting.",
+    "effects": [
+      "Gezondheid",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "13",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-019",
+    "theme": "Buurt",
+    "subtheme": "Routes",
+    "type": "Mobiliteit",
+    "title": "Maak een herkenbaar routenetwerk",
+    "description": "Verbind buurtroutes met de rest van de stad en maak ze begrijpelijk en toegankelijk.",
+    "effects": [
+      "Zelfstandigheid",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "13",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-020",
+    "theme": "Buurt",
+    "subtheme": "Bewegen",
+    "type": "Programma + inrichting",
+    "title": "Leg een beweeg- of looprondje aan",
+    "description": "Maak een herkenbare route door de wijk die uitnodigt tot dagelijks bewegen.",
+    "effects": [
+      "Bewegen",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "14",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-021",
+    "theme": "Buurt",
+    "subtheme": "Bewegen",
+    "type": "Inrichting",
+    "title": "Integreer oefeningen in de openbare ruimte",
+    "description": "Gebruik straatmeubilair en route-elementen als beweegaanleidingen.",
+    "effects": [
+      "Gezondheid",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Openbare ruimte",
+      "route"
+    ],
+    "targets": [
+      "Ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "14",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-022",
+    "theme": "Buurt",
+    "subtheme": "Territoria",
+    "type": "Stedenbouw",
+    "title": "Maak een heldere gradatie van openbaar naar privé",
+    "description": "Positioneer bouwblokken en buitenruimten zodat openbaar, semi-openbaar en privé duidelijk leesbaar zijn.",
+    "effects": [
+      "Eigenaarschap",
+      "privacy",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bewoners",
+      "bezoekers"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "14-15",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-023",
+    "theme": "Buurt",
+    "subtheme": "Territoria",
+    "type": "Stedenbouw",
+    "title": "Baken collectieve ruimten helder af",
+    "description": "Maak grenzen herkenbaar zonder zicht en toegankelijkheid onnodig te blokkeren.",
+    "effects": [
+      "Eigenaarschap",
+      "sociale veiligheid"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "14-15",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-024",
+    "theme": "Buurt",
+    "subtheme": "Hoven",
+    "type": "Stedenbouw",
+    "title": "Leg voetgangerspaden langs collectieve hoven",
+    "description": "Verbind drukkere straten via voetpaden met gedeelde hoven.",
+    "effects": [
+      "Ontmoeting",
+      "toegankelijkheid"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bewoners",
+      "voetgangers"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "15",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-025",
+    "theme": "Buurt",
+    "subtheme": "Hoven",
+    "type": "Stedenbouw",
+    "title": "Houd zichtlijnen naar collectieve ruimten open",
+    "description": "Zorg dat bewoners kunnen zien wat er gebeurt in een gezamenlijk terrein.",
+    "effects": [
+      "Sociale controle",
+      "veiligheid"
+    ],
+    "domains": [
+      "Bouwblok",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "15",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-026",
+    "theme": "Buurt",
+    "subtheme": "Hoogteverschil",
+    "type": "Stedenbouw",
+    "title": "Gebruik kleine hoogteverschillen voor territoriale gradatie",
+    "description": "Gebruik verhoogde hoven, terrassen en kleine trappen om overgangen leesbaar te maken.",
+    "effects": [
+      "Privacy",
+      "eigenaarschap",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Bouwblok",
+      "drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "15",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-027",
+    "theme": "Buurt",
+    "subtheme": "Woningtoegang",
+    "type": "Stedenbouw",
+    "title": "Richt voordeuren naar elkaar",
+    "description": "Laat entrees en voordeuren een gedeelde ruimte vormen in plaats van uitsluitend aan anonieme randen te liggen.",
+    "effects": [
+      "Burencontact",
+      "herkenning"
+    ],
+    "domains": [
+      "Bouwblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "15",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-028",
+    "theme": "Buurt",
+    "subtheme": "Hof",
+    "type": "Stedenbouw",
+    "title": "Behoud doorlopende routes door het hof",
+    "description": "Combineer beschutting en herkenbaarheid van een hof met doorwaadbaarheid.",
+    "effects": [
+      "Ontmoeting",
+      "toegankelijkheid"
+    ],
+    "domains": [
+      "Bouwblok",
+      "route"
+    ],
+    "targets": [
+      "Bewoners",
+      "bezoekers"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "15",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-029",
+    "theme": "Buurt",
+    "subtheme": "Menselijke maat",
+    "type": "Stedenbouw",
+    "title": "Beperk de maat van pleinen",
+    "description": "Ontwerp pleinruimten binnen afstanden waarop mensen elkaar kunnen herkennen en gezichten kunnen lezen.",
+    "effects": [
+      "Veiligheid",
+      "herkenning",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "16",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-030",
+    "theme": "Buurt",
+    "subtheme": "Straatprofiel",
+    "type": "Stedenbouw",
+    "title": "Maak een prettige hoogte-breedteverhouding",
+    "description": "Stem straatbreedte en gebouwhoogte af op een menselijke en niet-benauwde schaal.",
+    "effects": [
+      "Comfort",
+      "veiligheid"
+    ],
+    "domains": [
+      "Straat",
+      "bouwblok"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "16",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-031",
+    "theme": "Buurt",
+    "subtheme": "Pleinontwerp",
+    "type": "Inrichting",
+    "title": "Breng patronen aan in grote pleinen",
+    "description": "Gebruik plaveiselpatronen om grootschalige ruimten op menselijke maat te geleden.",
+    "effects": [
+      "Leesbaarheid",
+      "verblijf"
+    ],
+    "domains": [
+      "Plein"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "16",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-032",
+    "theme": "Buurt",
+    "subtheme": "Programma",
+    "type": "Programma",
+    "title": "Maak een wijkhuis als trefpunt",
+    "description": "Bundel gemeenschapsfuncties, diensten, wonen en sociaal ondernemerschap in een herkenbaar wijkpunt.",
+    "effects": [
+      "Geplande en toevallige ontmoeting",
+      "ondersteuning"
+    ],
+    "domains": [
+      "Buurt",
+      "gebouw"
+    ],
+    "targets": [
+      "Buurtbewoners",
+      "ouderen",
+      "jongeren"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "17",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-033",
+    "theme": "Buurt",
+    "subtheme": "Bewonersmix",
+    "type": "Woningprogramma",
+    "title": "Meng jong en oud",
+    "description": "Combineer leeftijden op buurtniveau om onderlinge steun en ontmoeting te bevorderen.",
+    "effects": [
+      "Intergenerationeel contact",
+      "netwerk"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Jongeren",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "17",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-034",
+    "theme": "Buurt",
+    "subtheme": "Bewonersmix",
+    "type": "Woningprogramma",
+    "title": "Meng vragende en dragende bewoners",
+    "description": "Plaats bewoners met verschillende ondersteuningsbehoeften en draagkracht nabij elkaar.",
+    "effects": [
+      "Informele zorg",
+      "zelfredzaamheid"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Kwetsbare en zelfredzame bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "17",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-035",
+    "theme": "Buurt",
+    "subtheme": "Woningmix",
+    "type": "Woningprogramma",
+    "title": "Meng huur, koop, sociaal en vrije sector",
+    "description": "Voorkom sterke concentratie van één groep en ondersteun draagvlak voor voorzieningen.",
+    "effects": [
+      "Diversiteit",
+      "leefbaarheid"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Diverse inkomensgroepen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "17",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-036",
+    "theme": "Buurt",
+    "subtheme": "Tegenbinding",
+    "type": "Stedenbouw",
+    "title": "Maak overgangszones tussen verschillende bewonersmilieus",
+    "description": "Gebruik randen en gedeelde plekken als locaties waar verschillende groepen elkaar kunnen tegenkomen.",
+    "effects": [
+      "Tolerantie",
+      "sociale cohesie"
+    ],
+    "domains": [
+      "Buurt",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Diverse groepen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "17",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-037",
+    "theme": "Buurt",
+    "subtheme": "Bewonersorganisatie",
+    "type": "Programma + proces",
+    "title": "Maak een wijkbedrijf of bewonerswerkplaats",
+    "description": "Bied een plek waar bewoners samen activiteiten uitvoeren en plannen voor de wijk realiseren.",
+    "effects": [
+      "Eigenaarschap",
+      "participatie",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "18",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-038",
+    "theme": "Buurt",
+    "subtheme": "Voorzieningen",
+    "type": "Programma",
+    "title": "Plaats dagelijkse voorzieningen op loopafstand",
+    "description": "Zorg dat arts, apotheek, dagelijkse boodschappen en andere basisfuncties binnen beperkte actieradius liggen.",
+    "effects": [
+      "Zelfstandigheid",
+      "dagelijks contact"
+    ],
+    "domains": [
+      "Buurt"
+    ],
+    "targets": [
+      "Ouderen",
+      "gezinnen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "18",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-039",
+    "theme": "Buurt",
+    "subtheme": "Routes",
+    "type": "Toegankelijkheid",
+    "title": "Maak routes geschikt voor rollators en kinderwagens",
+    "description": "Zorg voor vlakke, begaanbare en obstakelarme verbindingen.",
+    "effects": [
+      "Zelfstandigheid",
+      "inclusie"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Ouderen",
+      "ouders",
+      "kinderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "18",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-040",
+    "theme": "Buurt",
+    "subtheme": "Rustpunten",
+    "type": "Inrichting",
+    "title": "Plaats goede pauzeplekken langs routes",
+    "description": "Voeg rustmogelijkheden toe zodat mensen met beperkte actieradius zelfstandig op pad kunnen.",
+    "effects": [
+      "Bewegen",
+      "ontmoeting",
+      "vertrouwen"
+    ],
+    "domains": [
+      "Route",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Ouderen",
+      "minder mobiele bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "18-19",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-041",
+    "theme": "Buurt",
+    "subtheme": "Voorzieningen",
+    "type": "Programma",
+    "title": "Schaal voorzieningen naar hun verzorgingsgebied",
+    "description": "Stem gemeenschappelijke ruimten, winkels en horeca af op het bereik en publiek dat ze bedienen.",
+    "effects": [
+      "Levendigheid",
+      "toegankelijkheid"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "18",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-042",
+    "theme": "Buurt",
+    "subtheme": "Sociaal alibi",
+    "type": "Programma",
+    "title": "Voeg laagdrempelige dagelijkse bestemmingen toe",
+    "description": "Gebruik bibliotheek, buurtwinkel, kiosk of koffieplek als reden om de deur uit te gaan.",
+    "effects": [
+      "Eenzaamheid tegengaan",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "gebouw"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "18",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-043",
+    "theme": "Buurt",
+    "subtheme": "Openbaar vervoer",
+    "type": "Mobiliteit",
+    "title": "Maak de buurt goed bereikbaar met openbaar vervoer",
+    "description": "Plaats haltes logisch ten opzichte van woningen en voorzieningen.",
+    "effects": [
+      "Zelfstandigheid",
+      "inclusie"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "18",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-044",
+    "theme": "Buurt",
+    "subtheme": "Zorg",
+    "type": "Stedenbouw + programma",
+    "title": "Werk met zorgcirkels rond voorzieningenclusters",
+    "description": "Concentreer wonen en zorg binnen een beloopbare straal rond voorzieningen.",
+    "effects": [
+      "Zelfstandig wonen",
+      "nabijheid"
+    ],
+    "domains": [
+      "Buurt"
+    ],
+    "targets": [
+      "Ouderen",
+      "zorgbehoevenden"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "19",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-045",
+    "theme": "Buurt",
+    "subtheme": "Pleisterplaats",
+    "type": "Programma + inrichting",
+    "title": "Maak laagdrempelige buurtpleisterplaatsen",
+    "description": "Bied wc, koffie, informatie, vragenloket en een luisterend oor langs dagelijkse routes.",
+    "effects": [
+      "Rust",
+      "ondersteuning",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "route",
+      "gebouw"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "19",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-046",
+    "theme": "Buurt",
+    "subtheme": "Routenetwerk",
+    "type": "Stedenbouw",
+    "title": "Verbind hotspots en voorzieningen met overlappende loopcirkels",
+    "description": "Gebruik haalbare loopafstanden en tactische haltes om de hele buurt te ontsluiten.",
+    "effects": [
+      "Zelfstandigheid",
+      "bewegen"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Ouderen",
+      "minder mobiele bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "19",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-047",
+    "theme": "Buurt",
+    "subtheme": "Dichtheid",
+    "type": "Stedenbouw",
+    "title": "Verdicht om voorzieningen te dragen",
+    "description": "Voeg passend woningen toe om winkels, openbaar vervoer en levendigheid in stand te houden.",
+    "effects": [
+      "Levendigheid",
+      "veiligheid",
+      "voorzieningendraagvlak"
+    ],
+    "domains": [
+      "Buurt"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "20",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-048",
+    "theme": "Buurt",
+    "subtheme": "Verdichting",
+    "type": "Stedenbouw",
+    "title": "Koppel verdichting aan een kwaliteitsslag",
+    "description": "Combineer nieuwe woningen met speelruimte, groen, ontmoetingsruimte en betere drempelzones.",
+    "effects": [
+      "Leefbaarheid",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bestaande en nieuwe bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "20",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-049",
+    "theme": "Buurt",
+    "subtheme": "Bouwhoogte",
+    "type": "Stedenbouw",
+    "title": "Kies gedifferentieerde middelhoogbouw boven geïsoleerde hoogbouw waar passend",
+    "description": "Gebruik bouwvormen met meer relatie tussen woningen, straat en buitenruimte.",
+    "effects": [
+      "Straatleven",
+      "microklimaat",
+      "contact"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "20",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-050",
+    "theme": "Buurt",
+    "subtheme": "Wonen",
+    "type": "Woningprogramma",
+    "title": "Maak splitsbare of meergeneratiewoningen",
+    "description": "Ontwerp woningen waarin generaties samen of nabij elkaar kunnen wonen.",
+    "effects": [
+      "Mantelzorg",
+      "sociaal netwerk"
+    ],
+    "domains": [
+      "Woning",
+      "bouwblok"
+    ],
+    "targets": [
+      "Meerdere generaties"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "21",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-051",
+    "theme": "Buurt",
+    "subtheme": "Parkeren",
+    "type": "Mobiliteit",
+    "title": "Beoordeel parkeren op effect op straatleven",
+    "description": "Voorkom oplossingen die bewoners rechtstreeks van auto naar woning leiden zonder gebruik van openbare ruimte.",
+    "effects": [
+      "Terloopse ontmoeting",
+      "levendigheid"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bewoners",
+      "bezoekers"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "21",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-052",
+    "theme": "Buurt",
+    "subtheme": "Parkeren",
+    "type": "Mobiliteit",
+    "title": "Plaats parkeren aan de rand of in een parkeergebouw",
+    "description": "Laat bewoners vanaf een collectieve parkeerplek wandelend door openbaar gebied naar huis gaan.",
+    "effects": [
+      "Ontmoeting onderweg",
+      "autoluwe hoven"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Bewoners",
+      "bezoekers"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "21",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-053",
+    "theme": "Buurt",
+    "subtheme": "Parkeren",
+    "type": "Toekomstbestendig ontwerp",
+    "title": "Maak parkeergebouwen herbestembaar",
+    "description": "Ontwerp maatvoering en structuur zodat parkeren later kan transformeren naar wonen of verblijf.",
+    "effects": [
+      "Toekomstwaarde",
+      "verblijf"
+    ],
+    "domains": [
+      "Gebouw",
+      "buurt"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "21",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-054",
+    "theme": "Buurt",
+    "subtheme": "Autoluwe hoven",
+    "type": "Stedenbouw",
+    "title": "Verplaats parkeren uit het hof",
+    "description": "Gebruik vrijgekomen ruimte voor een plein, gemeenschappelijke tuin, wateropvang of voorzieningen.",
+    "effects": [
+      "Ontmoeting",
+      "veiligheid",
+      "verblijf"
+    ],
+    "domains": [
+      "Bouwblok",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "21",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-060",
+    "theme": "Route",
+    "subtheme": "Territoriale reeks",
+    "type": "Ruimtelijk principe",
+    "title": "Laat de route steeds persoonlijker en vertrouwder worden",
+    "description": "Ontwerp de dagelijkse route van openbaar naar collectief naar privé als een herkenbare reeks.",
+    "effects": [
+      "Thuisgevoel",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Route",
+      "gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "22-24",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-061",
+    "theme": "Route",
+    "subtheme": "Groepsgrootte",
+    "type": "Ruimtelijk principe",
+    "title": "Verklein de gebruikersgroep per stap naar de woning",
+    "description": "Laat elke volgende ruimte door een kleinere, herkenbare groep bewoners worden gebruikt.",
+    "effects": [
+      "Herkenning",
+      "burencontact"
+    ],
+    "domains": [
+      "Gebouw",
+      "route"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "22",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-062",
+    "theme": "Route",
+    "subtheme": "Ontsluiting",
+    "type": "Architectuur",
+    "title": "Geef ontsluitingsroutes verblijfskwaliteit",
+    "description": "Maak portiek, galerij, lifthal en gang meer dan verkeersruimte.",
+    "effects": [
+      "Terloopse ontmoeting"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "22-23",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-063",
+    "theme": "Route",
+    "subtheme": "Portiek",
+    "type": "Architectuur",
+    "title": "Ontwerp een portiek met overmaat",
+    "description": "Maak ruimte voor stilstaan en leg visuele relaties tussen woning en portiek.",
+    "effects": [
+      "Burencontact",
+      "verblijf"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "23",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-064",
+    "theme": "Route",
+    "subtheme": "Galerij",
+    "type": "Architectuur",
+    "title": "Ontwerp de galerij als stoep of leefstraat",
+    "description": "Geef de galerij extra breedte zodat zitten, planten, spelen en praten mogelijk worden.",
+    "effects": [
+      "Burencontact",
+      "verblijf",
+      "identiteit"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "23-24",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-065",
+    "theme": "Route",
+    "subtheme": "Galerij",
+    "type": "Klimaat",
+    "title": "Oriënteer de galerij op zon en schaduw",
+    "description": "Gebruik ochtendzon of zomerschaduw om verblijf aantrekkelijk te maken.",
+    "effects": [
+      "Comfort",
+      "verblijf"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "23",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-066",
+    "theme": "Route",
+    "subtheme": "Galerij",
+    "type": "Architectuur",
+    "title": "Maak de galerij zichtbaar vanuit verblijfsruimten",
+    "description": "Leg een directe visuele relatie tussen woning en ontsluiting.",
+    "effects": [
+      "Contact",
+      "sociale controle"
+    ],
+    "domains": [
+      "Gebouw",
+      "woning"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "23",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-067",
+    "theme": "Route",
+    "subtheme": "Galerij",
+    "type": "Architectuur",
+    "title": "Maak de galerij direct toegankelijk vanuit de leefruimte",
+    "description": "Laat bewoners gemakkelijk vanuit keuken of woonkamer de galerij gebruiken.",
+    "effects": [
+      "Laagdrempelig contact"
+    ],
+    "domains": [
+      "Gebouw",
+      "woning"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "23",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-068",
+    "theme": "Route",
+    "subtheme": "Toegankelijkheid",
+    "type": "Renovatie",
+    "title": "Voeg een tweede toegankelijke entree toe",
+    "description": "Maak bestaande portiekwoningen toegankelijk vanaf tuin- of maaiveldzijde.",
+    "effects": [
+      "Inclusie",
+      "intergenerationeel contact"
+    ],
+    "domains": [
+      "Gebouw",
+      "route"
+    ],
+    "targets": [
+      "Ouderen",
+      "minder mobiele bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "23",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-069",
+    "theme": "Route",
+    "subtheme": "Collectieve tuin",
+    "type": "Beheer + inrichting",
+    "title": "Gebruik en onderhoud de tuin gezamenlijk",
+    "description": "Koppel toegankelijkheid aan gezamenlijk gebruik en beheer.",
+    "effects": [
+      "Eigenaarschap",
+      "sociale samenhang"
+    ],
+    "domains": [
+      "Bouwblok",
+      "tuin"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "23",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-070",
+    "theme": "Route",
+    "subtheme": "Routekeuze",
+    "type": "Architectuur + stedenbouw",
+    "title": "Bied meerdere routes naar huis",
+    "description": "Laat bewoners linksom, rechtsom of tussendoor kunnen bewegen en contact kunnen kiezen of vermijden.",
+    "effects": [
+      "Autonomie",
+      "ontmoeting",
+      "privacy"
+    ],
+    "domains": [
+      "Gebouw",
+      "route"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "27",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-071",
+    "theme": "Route",
+    "subtheme": "Verticale verbinding",
+    "type": "Architectuur",
+    "title": "Verbind verschillende woonlagen met elkaar",
+    "description": "Maak extra trappen en routes zodat contacten niet beperkt blijven tot één verdieping.",
+    "effects": [
+      "Netwerk",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "27",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-072",
+    "theme": "Route",
+    "subtheme": "Olifantenpaadjes",
+    "type": "Architectuur",
+    "title": "Maak informele dwarsroutes mogelijk",
+    "description": "Voeg secundaire paden, trappen of verbindingen toe voor keuze en spontane beweging.",
+    "effects": [
+      "Toevallige ontmoeting",
+      "keuzevrijheid"
+    ],
+    "domains": [
+      "Gebouw",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "27",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-073",
+    "theme": "Route",
+    "subtheme": "Eigenaarschap",
+    "type": "Ruimtelijk principe",
+    "title": "Laat de dagelijkse route door toe-eigenbare ruimten lopen",
+    "description": "Plaats gedeelde buitenruimten zichtbaar en direct langs dagelijkse bewegingen.",
+    "effects": [
+      "Eigenaarschap",
+      "zorg voor omgeving"
+    ],
+    "domains": [
+      "Route",
+      "collectieve ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "25",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-074",
+    "theme": "Route",
+    "subtheme": "Eigenaarschap",
+    "type": "Proces",
+    "title": "Geef bewoners ruimte om plekken toe te eigenen",
+    "description": "Sta inrichting, onderhoud en persoonlijke toevoegingen toe en communiceer dit expliciet.",
+    "effects": [
+      "Eigenaarschap",
+      "gemeenschapsvorming"
+    ],
+    "domains": [
+      "Collectieve ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "25",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-075",
+    "theme": "Route",
+    "subtheme": "Participatie",
+    "type": "Proces",
+    "title": "Ontwerp de hoofdopzet samen met toekomstige bewoners",
+    "description": "Gebruik eenvoudige ruimtelijke modellen om varianten gezamenlijk te bespreken en aan te passen.",
+    "effects": [
+      "Draagvlak",
+      "eigenaarschap"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok",
+      "gebouw"
+    ],
+    "targets": [
+      "Toekomstige bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "25",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-076",
+    "theme": "Route",
+    "subtheme": "Rustpunt",
+    "type": "Inrichting",
+    "title": "Deel lange afstanden op in korte etappes",
+    "description": "Plaats voldoende rustpunten zodat ouderen routes veilig en vol vertrouwen kunnen gebruiken.",
+    "effects": [
+      "Zelfstandigheid",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "route"
+    ],
+    "targets": [
+      "Ouderen",
+      "minder mobiele bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "25",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-077",
+    "theme": "Route",
+    "subtheme": "Overmaat",
+    "type": "Architectuur",
+    "title": "Maak extra ruimte bij postvakken",
+    "description": "Voeg ruimte toe om post te halen, te treuzelen en iemand te spreken zonder de route te blokkeren.",
+    "effects": [
+      "Terloopse ontmoeting"
+    ],
+    "domains": [
+      "Entree",
+      "route"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "26",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-078",
+    "theme": "Route",
+    "subtheme": "Klimaat",
+    "type": "Architectuur",
+    "title": "Bescherm ontmoetingsplekken tegen tocht en regen",
+    "description": "Zorg voor droogte, beschutting en comfort langs de route.",
+    "effects": [
+      "Verblijf",
+      "gesprek"
+    ],
+    "domains": [
+      "Gebouw",
+      "route"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "26",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-079",
+    "theme": "Route",
+    "subtheme": "Akoestiek",
+    "type": "Architectuur",
+    "title": "Zorg voor goede akoestiek in gedeelde routes",
+    "description": "Beperk hinder en maak ontspannen gesprek mogelijk.",
+    "effects": [
+      "Comfort",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "26",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-080",
+    "theme": "Route",
+    "subtheme": "Gemeenschappelijke ruimte",
+    "type": "Architectuur",
+    "title": "Plaats een ontmoetingsruimte direct naast de hoofdentree",
+    "description": "Leg de ruimte aan de dagelijkse route zodat meedoen laagdrempelig wordt.",
+    "effects": [
+      "Ontmoeting",
+      "deelname"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "26",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-081",
+    "theme": "Route",
+    "subtheme": "Zichtbaarheid",
+    "type": "Architectuur",
+    "title": "Maak gemeenschappelijke ruimte visueel verbonden met entree",
+    "description": "Gebruik een grote pui of andere transparante relatie om activiteiten zichtbaar te maken.",
+    "effects": [
+      "Nieuwsgierigheid",
+      "deelname"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners",
+      "bezoekers"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "26",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-090",
+    "theme": "Woonblok",
+    "subtheme": "Groepsgrootte",
+    "type": "Programma + organisatie",
+    "title": "Maak kleinschalige woongroepen van circa 6-10 personen voor intensief delen",
+    "description": "Gebruik deze schaal voor groepen die samen willen koken en eten.",
+    "effects": [
+      "Samenleven",
+      "onderlinge steun"
+    ],
+    "domains": [
+      "Woonblok",
+      "gebouw"
+    ],
+    "targets": [
+      "Woongroepen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "28",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-091",
+    "theme": "Woonblok",
+    "subtheme": "Groepsgrootte",
+    "type": "Programma + organisatie",
+    "title": "Gebruik circa 30 personen voor spontaan gedeeld beheer",
+    "description": "Op deze schaal kunnen ruimten en voorzieningen vaak zonder zware formele organisatie worden gedeeld.",
+    "effects": [
+      "Eigenaarschap",
+      "samenwerking"
+    ],
+    "domains": [
+      "Woonblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "28",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-092",
+    "theme": "Woonblok",
+    "subtheme": "Groepsgrootte",
+    "type": "Programma + organisatie",
+    "title": "Gebruik circa 100-130 personen als herkenbare buurteenheid",
+    "description": "Op deze schaal kunnen bewoners elkaar nog herkennen; organiseer beheer met afspraken en taakgroepen.",
+    "effects": [
+      "Herkenning",
+      "gemeenschap"
+    ],
+    "domains": [
+      "Woonblok",
+      "buurtje"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "28",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-093",
+    "theme": "Woonblok",
+    "subtheme": "Hofwonen",
+    "type": "Woningtypologie",
+    "title": "Maak een herkenbaar gemeenschappelijk hof",
+    "description": "Combineer zelfstandige woningen met een gedeelde binnenzijde waar bewoners elkaar kunnen kennen.",
+    "effects": [
+      "Burencontact",
+      "gemeenschap"
+    ],
+    "domains": [
+      "Woonblok"
+    ],
+    "targets": [
+      "Bewoners",
+      "meerdere generaties"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "29",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-094",
+    "theme": "Woonblok",
+    "subtheme": "Woningmix",
+    "type": "Woningprogramma",
+    "title": "Meng grotere en kleinere woningen binnen het bouwblok",
+    "description": "Maak een divers aanbod op kleine schaal zodat verschillende huishoudens nabij elkaar wonen.",
+    "effects": [
+      "Diversiteit",
+      "informeel netwerk"
+    ],
+    "domains": [
+      "Woonblok"
+    ],
+    "targets": [
+      "Diverse huishoudens"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "29",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-095",
+    "theme": "Woonblok",
+    "subtheme": "Woningmix",
+    "type": "Woningprogramma",
+    "title": "Meng sociaal en vrije sector zorgvuldig binnen het bouwblok",
+    "description": "Combineer segmenten op een kleine korrel met aandacht voor privacy en gedeelde kenmerken.",
+    "effects": [
+      "Inclusie",
+      "tegenbinding"
+    ],
+    "domains": [
+      "Woonblok"
+    ],
+    "targets": [
+      "Diverse inkomensgroepen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "29",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-096",
+    "theme": "Woonblok",
+    "subtheme": "Gemeenschappelijkheid",
+    "type": "Programma",
+    "title": "Koppel bewoners aan gedeelde interesses of hobby's",
+    "description": "Gebruik inhoudelijke gemene delers als basis voor lichte gemeenschap.",
+    "effects": [
+      "Thuisgevoel",
+      "contact"
+    ],
+    "domains": [
+      "Woonblok",
+      "collectieve ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "29",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-097",
+    "theme": "Woonblok",
+    "subtheme": "Woningtypologie",
+    "type": "Stedenbouw + architectuur",
+    "title": "Differentieer woningtypologieën binnen één bouwblok",
+    "description": "Combineer meerdere woning- en gebouwtypen om diversiteit en herkenbaarheid te maken.",
+    "effects": [
+      "Diversiteit",
+      "identiteit"
+    ],
+    "domains": [
+      "Woonblok"
+    ],
+    "targets": [
+      "Diverse huishoudens"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "30",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-098",
+    "theme": "Woonblok",
+    "subtheme": "Zorgmix",
+    "type": "Woningprogramma",
+    "title": "Combineer reguliere bewoners en bewoners met begeleiding",
+    "description": "Ontwerp een gemengde woonvorm waarin bewoners met verschillende ondersteuningsvragen naast elkaar wonen.",
+    "effects": [
+      "Informele steun",
+      "inclusie"
+    ],
+    "domains": [
+      "Woonblok",
+      "gebouw"
+    ],
+    "targets": [
+      "Jongvolwassenen",
+      "reguliere huurders"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "30",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-099",
+    "theme": "Woonblok",
+    "subtheme": "Gemeenschappelijke ruimte",
+    "type": "Programma",
+    "title": "Combineer een grote gedeelde woonkamer met meerdere kleine plekken",
+    "description": "Bied zowel gezamenlijke activiteit als terugtrek- en keuzemogelijkheden.",
+    "effects": [
+      "Ontmoeting",
+      "autonomie"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "31",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-100",
+    "theme": "Woonblok",
+    "subtheme": "Collectieve buitenruimte",
+    "type": "Landschap + architectuur",
+    "title": "Maak een gemeenschappelijke binnentuin",
+    "description": "Leg een toegankelijke en zichtbare tuin aan voor informeel samenzijn.",
+    "effects": [
+      "Burencontact",
+      "verblijf"
+    ],
+    "domains": [
+      "Woonblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "31-32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-101",
+    "theme": "Woonblok",
+    "subtheme": "Binnen-buiten",
+    "type": "Architectuur",
+    "title": "Verbind gemeenschappelijke binnenruimte aan de tuin",
+    "description": "Gebruik grote gevelopeningen en directe toegang om binnen- en buitenactiviteiten te koppelen.",
+    "effects": [
+      "Ontmoeting",
+      "gebruiksgemak"
+    ],
+    "domains": [
+      "Gebouw",
+      "tuin"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "31-32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-102",
+    "theme": "Woonblok",
+    "subtheme": "Entree",
+    "type": "Architectuur",
+    "title": "Plaats gemeenschappelijke functies bij een royale entree",
+    "description": "Gebruik entree, trap, brievenbussen en gedeelde functies als sociaal knooppunt.",
+    "effects": [
+      "Terloopse ontmoeting"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners",
+      "bezoekers"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-103",
+    "theme": "Woonblok",
+    "subtheme": "Entree",
+    "type": "Architectuur",
+    "title": "Maak entree, tuin en ontsluiting ruimtelijk doorlopend",
+    "description": "Laat zicht en beweging tussen entree, binnentuin en galerijen doorlopen.",
+    "effects": [
+      "Oriëntatie",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Gebouw",
+      "bouwblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-104",
+    "theme": "Woonblok",
+    "subtheme": "Verdieping",
+    "type": "Architectuur",
+    "title": "Maak gemeenschappelijke ruimtes op meerdere verdiepingen",
+    "description": "Voeg gedeelde woonkamers of verblijfsruimtes toe op verschillende niveaus.",
+    "effects": [
+      "Burencontact",
+      "nabijheid"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-105",
+    "theme": "Woonblok",
+    "subtheme": "Gedeelde voorzieningen",
+    "type": "Programma",
+    "title": "Plaats gedeelde wasvoorzieningen centraal",
+    "description": "Gebruik de wasruimte als functionele aanleiding voor spontaan contact.",
+    "effects": [
+      "Terloopse ontmoeting"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-106",
+    "theme": "Woonblok",
+    "subtheme": "Dakterras",
+    "type": "Architectuur",
+    "title": "Maak een gezamenlijk dakterras",
+    "description": "Bied een collectieve buitenruimte met zon, uitzicht en verblijfskwaliteit.",
+    "effects": [
+      "Ontmoeting",
+      "ontspanning"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-107",
+    "theme": "Woonblok",
+    "subtheme": "Trappen",
+    "type": "Architectuur",
+    "title": "Maak zichtbare trappen in plaats van uitsluitend liftgebruik",
+    "description": "Stimuleer beweging en toevallige ontmoetingen tussen verdiepingen.",
+    "effects": [
+      "Bewegen",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-108",
+    "theme": "Woonblok",
+    "subtheme": "Tussenruimten",
+    "type": "Architectuur",
+    "title": "Vergroot galerijen, gangen en entrees",
+    "description": "Voeg overmaat toe aan circulatieruimten om zit- en verblijfsplekken mogelijk te maken.",
+    "effects": [
+      "Verblijf",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-109",
+    "theme": "Woonblok",
+    "subtheme": "Activering",
+    "type": "Programma",
+    "title": "Programme­er activiteiten in gezamenlijke tussenruimten",
+    "description": "Gebruik dagelijks beheer, activiteiten of gedeelde functies om ruimtes daadwerkelijk sociaal te laten werken.",
+    "effects": [
+      "Ontmoeting",
+      "activering"
+    ],
+    "domains": [
+      "Gebouw",
+      "collectieve ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "32",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-110",
+    "theme": "Woonblok",
+    "subtheme": "Plint",
+    "type": "Architectuur + programma",
+    "title": "Maak de begane grond levendig",
+    "description": "Plaats woningen en actieve functies in de plint, ook voor activiteit in de avond.",
+    "effects": [
+      "Straatleven",
+      "veiligheid",
+      "contact"
+    ],
+    "domains": [
+      "Gebouw",
+      "straat"
+    ],
+    "targets": [
+      "Bewoners",
+      "passanten"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-111",
+    "theme": "Woonblok",
+    "subtheme": "Plint",
+    "type": "Architectuur",
+    "title": "Maak de plint vriendelijk en tactiel",
+    "description": "Gebruik menselijke detaillering en materialen op ooghoogte.",
+    "effects": [
+      "Herkenning",
+      "verblijfskwaliteit"
+    ],
+    "domains": [
+      "Gebouw",
+      "straat"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-112",
+    "theme": "Woonblok",
+    "subtheme": "Plint",
+    "type": "Architectuur",
+    "title": "Vermijd dichte plinten en bergingen aan de straat",
+    "description": "Plaats passieve functies niet dominant langs belangrijke routes.",
+    "effects": [
+      "Veiligheid",
+      "levendigheid"
+    ],
+    "domains": [
+      "Gebouw",
+      "straat"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-113",
+    "theme": "Woonblok",
+    "subtheme": "Microklimaat",
+    "type": "Stedenbouw",
+    "title": "Knik straten om wind te breken",
+    "description": "Gebruik straatgeometrie als beschutting tegen dominante wind.",
+    "effects": [
+      "Comfort",
+      "langer verblijf"
+    ],
+    "domains": [
+      "Buurt",
+      "bouwblok"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-114",
+    "theme": "Woonblok",
+    "subtheme": "Microklimaat",
+    "type": "Architectuur",
+    "title": "Gebruik lagere bebouwing om wind horizontaal te begeleiden",
+    "description": "Stem massaopbouw af op een comfortabel maaiveldklimaat.",
+    "effects": [
+      "Comfort",
+      "verblijf"
+    ],
+    "domains": [
+      "Bouwblok"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-115",
+    "theme": "Woonblok",
+    "subtheme": "Microklimaat",
+    "type": "Architectuur",
+    "title": "Beperk hoge volumes die wind naar beneden sturen",
+    "description": "Plaats hoogteaccenten zorgvuldig om valwinden te voorkomen.",
+    "effects": [
+      "Comfort",
+      "veiligheid"
+    ],
+    "domains": [
+      "Bouwblok"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-116",
+    "theme": "Woonblok",
+    "subtheme": "Daglicht",
+    "type": "Architectuur",
+    "title": "Gebruik schuine daken om zonlicht naar straat te begeleiden",
+    "description": "Vorm daken en massa's zodat zon de openbare ruimte bereikt.",
+    "effects": [
+      "Comfort",
+      "verblijf"
+    ],
+    "domains": [
+      "Gebouw",
+      "straat"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-117",
+    "theme": "Woonblok",
+    "subtheme": "Schaduw",
+    "type": "Architectuur",
+    "title": "Gebruik dakoverstekken voor zomerschaduw",
+    "description": "Maak beschutte schaduwplekken op warme dagen.",
+    "effects": [
+      "Comfort",
+      "verblijf"
+    ],
+    "domains": [
+      "Gebouw",
+      "drempelzone"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-118",
+    "theme": "Woonblok",
+    "subtheme": "Groen",
+    "type": "Landschap",
+    "title": "Integreer zichtbaar groen in de directe leefomgeving",
+    "description": "Maak planten en natuur onderdeel van dagelijkse routes en uitzichten.",
+    "effects": [
+      "Welzijn",
+      "stressreductie",
+      "verblijf"
+    ],
+    "domains": [
+      "Bouwblok",
+      "gebouw",
+      "openbare ruimte"
+    ],
+    "targets": [
+      "Iedereen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "36",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-119",
+    "theme": "Woonblok",
+    "subtheme": "Groen",
+    "type": "Landschap",
+    "title": "Gebruik binnentuinen voor groen en koeling",
+    "description": "Combineer menselijke maat, biodiversiteit en klimaatadaptatie in collectieve hoven.",
+    "effects": [
+      "Gezondheid",
+      "ontmoeting",
+      "klimaatcomfort"
+    ],
+    "domains": [
+      "Woonblok"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "35-36",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-130",
+    "theme": "Drempelzone",
+    "subtheme": "Stoep/voordeur",
+    "type": "Architectuur",
+    "title": "Maak een bruikbare drempelzone bij de voordeur",
+    "description": "Geef ruimte voor een bankje, bloempot, koffie en kort verblijf op de overgang tussen huis en buiten.",
+    "effects": [
+      "Burencontact",
+      "identiteit"
+    ],
+    "domains": [
+      "Woning",
+      "gebouw",
+      "straat"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "37",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-131",
+    "theme": "Drempelzone",
+    "subtheme": "Toe-eigening",
+    "type": "Inrichting",
+    "title": "Sta persoonlijke inrichting van de drempelzone toe",
+    "description": "Bied bewoners ruimte voor planten, stoelen en andere persoonlijke elementen.",
+    "effects": [
+      "Eigenaarschap",
+      "herkenning"
+    ],
+    "domains": [
+      "Drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "37",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-132",
+    "theme": "Drempelzone",
+    "subtheme": "Kinderen",
+    "type": "Architectuur",
+    "title": "Maak een veilige observatieplek voor kinderen",
+    "description": "Laat kinderen vanuit de nabijheid van de woning de buitenwereld bekijken en geleidelijk gebruiken.",
+    "effects": [
+      "Veiligheid",
+      "sociale ontwikkeling"
+    ],
+    "domains": [
+      "Drempelzone"
+    ],
+    "targets": [
+      "Kinderen",
+      "ouders"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "37",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-133",
+    "theme": "Drempelzone",
+    "subtheme": "Galerij naar maaiveld",
+    "type": "Renovatie",
+    "title": "Voeg per woning een directe trap naar maaiveld toe",
+    "description": "Transformeer een verhoogde galerij in een veranda met directe relatie tot de buitenruimte.",
+    "effects": [
+      "Eigenaarschap",
+      "sociale controle",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Gebouw",
+      "drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "37",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-134",
+    "theme": "Drempelzone",
+    "subtheme": "Veranda",
+    "type": "Architectuur",
+    "title": "Maak een veranda als extra buitenruimte",
+    "description": "Gebruik een overdekte, toe-eigenbare zone tussen woning en collectieve ruimte.",
+    "effects": [
+      "Privacy",
+      "ontmoeting",
+      "verblijf"
+    ],
+    "domains": [
+      "Drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "37",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-135",
+    "theme": "Drempelzone",
+    "subtheme": "Privacy",
+    "type": "Architectuur",
+    "title": "Rek de overgang tussen privé en openbaar op",
+    "description": "Gebruik een tussenliggende zone om zowel privacy als contact te vergroten.",
+    "effects": [
+      "Privacyregulering",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "38",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-136",
+    "theme": "Drempelzone",
+    "subtheme": "Maaiveldwoning",
+    "type": "Architectuur",
+    "title": "Til beganegrondwoningen iets op",
+    "description": "Vergroot privacy en veiligheidsgevoel met een beperkte verhoging ten opzichte van het maaiveld.",
+    "effects": [
+      "Veiligheid",
+      "contact met buiten"
+    ],
+    "domains": [
+      "Woning",
+      "drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "38,43",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-137",
+    "theme": "Drempelzone",
+    "subtheme": "Gevelsprong",
+    "type": "Architectuur",
+    "title": "Trek de gevel terug of naar buiten voor extra overgangsruimte",
+    "description": "Gebruik de gevelpositie om een bruikbare zone tussen woning en openbaar gebied te maken.",
+    "effects": [
+      "Privacy",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Gebouw",
+      "drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "38,43",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-138",
+    "theme": "Drempelzone",
+    "subtheme": "Woningplattegrond",
+    "type": "Architectuur",
+    "title": "Leg keuken of woonkamer aan de drempelzone",
+    "description": "Koppel publieke woonfuncties direct aan galerij, stoep of ontsluitingsroute.",
+    "effects": [
+      "Zichtcontact",
+      "gesprek"
+    ],
+    "domains": [
+      "Woning",
+      "drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "39-40",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-139",
+    "theme": "Drempelzone",
+    "subtheme": "Openingen",
+    "type": "Architectuur",
+    "title": "Maak ramen en deuren gemakkelijk te openen naar de drempelzone",
+    "description": "Vergemakkelijk kort contact en direct buiten zitten.",
+    "effects": [
+      "Laagdrempelig contact"
+    ],
+    "domains": [
+      "Woning",
+      "drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "39",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-140",
+    "theme": "Drempelzone",
+    "subtheme": "Privacyzonering",
+    "type": "Woningplattegrond",
+    "title": "Plaats slaapkamers uit het zicht van de ontsluiting",
+    "description": "Leg private functies verder van galerij of route en voorkom dat buren langs slaapkamerramen lopen.",
+    "effects": [
+      "Privacy",
+      "woonkwaliteit"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "39-40",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-141",
+    "theme": "Drempelzone",
+    "subtheme": "Doorzon",
+    "type": "Woningplattegrond",
+    "title": "Maak een leefruimte die van galerij- naar buitenzijde doorloopt",
+    "description": "Combineer oriëntatie op de straat/stad met contact aan de collectieve ontsluiting.",
+    "effects": [
+      "Licht",
+      "zicht",
+      "burencontact"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "40",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-142",
+    "theme": "Drempelzone",
+    "subtheme": "Afmeting",
+    "type": "Maatvoering",
+    "title": "Maak de drempelzone circa 1-2 meter diep",
+    "description": "Gebruik een maat die verblijf en personalisering mogelijk maakt zonder volledige afsluiting uit te lokken.",
+    "effects": [
+      "Verblijf",
+      "eigenaarschap",
+      "ontmoeting"
+    ],
+    "domains": [
+      "Drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "40",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-143",
+    "theme": "Drempelzone",
+    "subtheme": "Afmeting",
+    "type": "Maatvoering",
+    "title": "Vermijd een te smalle drempelzone",
+    "description": "Een te kleine zone biedt geen ruimte voor zitten of persoonlijke inrichting.",
+    "effects": [
+      "Verblijf",
+      "contact"
+    ],
+    "domains": [
+      "Drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "40",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-144",
+    "theme": "Drempelzone",
+    "subtheme": "Afmeting",
+    "type": "Maatvoering",
+    "title": "Vermijd een te diepe en volledig afgeschermde voortuin",
+    "description": "Een te grote zone kan als privévoortuin gaan functioneren en de overgangsfunctie verliezen.",
+    "effects": [
+      "Balans privacy-ontmoeting"
+    ],
+    "domains": [
+      "Drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "40",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-150",
+    "theme": "Woning",
+    "subtheme": "Levensloopbestendig",
+    "type": "Woningontwerp",
+    "title": "Ontwerp drempelloos",
+    "description": "Maak woning en toegang bruikbaar bij verminderde mobiliteit.",
+    "effects": [
+      "Langer zelfstandig wonen",
+      "behoud netwerk"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Ouderen",
+      "mensen met beperking"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "41",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-151",
+    "theme": "Woning",
+    "subtheme": "Levensloopbestendig",
+    "type": "Woningontwerp",
+    "title": "Voorzie een inloopdouche",
+    "description": "Ondersteun zelfstandig wonen bij veranderende zorgbehoefte.",
+    "effects": [
+      "Zelfstandigheid",
+      "behoud sociaal netwerk"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Ouderen",
+      "zorgbehoevenden"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "41",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-152",
+    "theme": "Woning",
+    "subtheme": "Levensloopbestendig",
+    "type": "Woningontwerp",
+    "title": "Plaats een slaapkamer op de begane grond waar relevant",
+    "description": "Maak langdurig wonen mogelijk zonder trapafhankelijkheid.",
+    "effects": [
+      "Zelfstandigheid",
+      "langer thuis"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Ouderen",
+      "zorgbehoevenden"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "41",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-153",
+    "theme": "Woning",
+    "subtheme": "Aanpasbaarheid",
+    "type": "Woningontwerp",
+    "title": "Maak de woning aanpasbaar aan veranderende zorgbehoefte",
+    "description": "Ontwerp maatvoering en indeling zodat ondersteuning later kan worden toegevoegd.",
+    "effects": [
+      "Langer zelfstandig wonen"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "41",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-154",
+    "theme": "Woning",
+    "subtheme": "Flexibiliteit",
+    "type": "Woningontwerp",
+    "title": "Maak woningen eenvoudig herindeelbaar",
+    "description": "Laat woningen en complexen meebewegen met veranderende huishoudens en woonvragen.",
+    "effects": [
+      "Toekomstbestendigheid",
+      "wooncarrière"
+    ],
+    "domains": [
+      "Woning",
+      "gebouw"
+    ],
+    "targets": [
+      "Diverse huishoudens"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "41",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-155",
+    "theme": "Woning",
+    "subtheme": "Bouwsysteem",
+    "type": "Bouwmethode",
+    "title": "Gebruik efficiënt of modulair bouwen om budget voor collectieve overmaat vrij te maken",
+    "description": "Zet kostenbesparing gericht in voor betere routes, entrees en ontmoetingsruimten.",
+    "effects": [
+      "Ontmoeting",
+      "betaalbaarheid"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "42",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-156",
+    "theme": "Woning",
+    "subtheme": "Daglicht",
+    "type": "Woningontwerp",
+    "title": "Zorg voor voldoende daglicht",
+    "description": "Compenseer compacte woningmaten met hoge lichtkwaliteit.",
+    "effects": [
+      "Welzijn",
+      "contact met buiten"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "42",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-157",
+    "theme": "Woning",
+    "subtheme": "Uitzicht",
+    "type": "Woningontwerp",
+    "title": "Bied zicht vanuit de woning naar straat en buitenwereld",
+    "description": "Laat bewoners deelnemen aan het leven buiten, ook wanneer ze veel thuis zijn.",
+    "effects": [
+      "Verbondenheid",
+      "sociale controle"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "42",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-158",
+    "theme": "Woning",
+    "subtheme": "Plattegrond",
+    "type": "Woningontwerp",
+    "title": "Maak de woning helder en overzichtelijk",
+    "description": "Gebruik een begrijpelijke indeling die zelfstandig gebruik ondersteunt.",
+    "effects": [
+      "Zelfstandigheid",
+      "comfort"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Iedereen",
+      "ouderen"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "42",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-159",
+    "theme": "Woning",
+    "subtheme": "Contact",
+    "type": "Woningontwerp",
+    "title": "Maak visueel contact met ontsluitingsroute en maaiveld mogelijk",
+    "description": "Positioneer ramen en leefruimten zodat bewoners buren en straatleven kunnen zien.",
+    "effects": [
+      "Burencontact",
+      "verbondenheid"
+    ],
+    "domains": [
+      "Woning",
+      "gebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "42",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-160",
+    "theme": "Woning",
+    "subtheme": "Programma",
+    "type": "Programma",
+    "title": "Voeg sociaal interactief welzijns- en activiteitenprogramma toe",
+    "description": "Combineer wonen met zorg, welzijn en vrijetijdsbesteding ontwikkeld met bewoners.",
+    "effects": [
+      "Meedoen",
+      "ontmoeting",
+      "zingeving"
+    ],
+    "domains": [
+      "Gebouw",
+      "buurt"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "42",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-161",
+    "theme": "Woning",
+    "subtheme": "Woningtypen",
+    "type": "Woningprogramma",
+    "title": "Cluster verschillende woningtypen rond gedeelde drempelzones",
+    "description": "Gebruik menging en gedeelde ontsluiting om gemeenschappelijke plekken te laten ontstaan.",
+    "effects": [
+      "Ontmoeting",
+      "diversiteit"
+    ],
+    "domains": [
+      "Gebouw"
+    ],
+    "targets": [
+      "Diverse huishoudens"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "42",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-162",
+    "theme": "Woning",
+    "subtheme": "Privacy",
+    "type": "Woningontwerp",
+    "title": "Ondersteun actieve privacyregulering",
+    "description": "Maak zones waar contact mogelijk is én zones waar afzondering mogelijk blijft.",
+    "effects": [
+      "Autonomie",
+      "voorkomen sociale stress"
+    ],
+    "domains": [
+      "Woning",
+      "drempelzone"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "43",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-163",
+    "theme": "Woning",
+    "subtheme": "Veiligheid",
+    "type": "Woningontwerp",
+    "title": "Vergroot brand- en inbraakveiligheid met kleine woningaanpassingen",
+    "description": "Gebruik toegankelijke hulpmiddelen om veilig en comfortabel thuis te blijven wonen.",
+    "effects": [
+      "Zelfstandigheid",
+      "veiligheidsgevoel"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Ouderen",
+      "zorgbehoevenden"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "44",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-164",
+    "theme": "Woning",
+    "subtheme": "Domotica",
+    "type": "Technologie",
+    "title": "Integreer ondersteunende thuistechnologie",
+    "description": "Gebruik slimme, bij voorkeur onzichtbare technologie voor zorg, welzijn en zelfstandig wonen.",
+    "effects": [
+      "Zelfstandigheid",
+      "welzijn"
+    ],
+    "domains": [
+      "Woning"
+    ],
+    "targets": [
+      "Ouderen",
+      "zorgbehoevenden"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "44",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-165",
+    "theme": "Woning",
+    "subtheme": "Domotica",
+    "type": "Technologie",
+    "title": "Test technologie samen met bewoners",
+    "description": "Gebruik living labs en ervaarwoningen om toepassingen op behoeften en gebruiksgemak te toetsen.",
+    "effects": [
+      "Passend ontwerp",
+      "participatie"
+    ],
+    "domains": [
+      "Woning",
+      "proces"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "44",
+    "status": "Bestaand"
+  },
+  {
+    "id": "OFO-166",
+    "theme": "Woning",
+    "subtheme": "Domotica",
+    "type": "Technologie",
+    "title": "Combineer technologie met een persoonlijk aanspreekpunt",
+    "description": "Werk met blended care: digitale ondersteuning plus menselijk contact.",
+    "effects": [
+      "Zelfstandigheid",
+      "vertrouwen",
+      "contact"
+    ],
+    "domains": [
+      "Woning",
+      "zorgnetwerk"
+    ],
+    "targets": [
+      "Zorgbehoevenden"
+    ],
+    "source": "Platform31",
+    "document": "Ontwerp voor ontmoeten",
+    "page": "44",
+    "status": "Bestaand"
+  },
+  {
+    "id": "NEW-001",
+    "theme": "Buurt",
+    "subtheme": "Woonprogrammering",
+    "type": "Programma",
+    "title": "Maak een mix van woningtypen voor verschillende levensfasen",
+    "description": "Combineer uiteenlopende woningtypen en woonvormen zodat bewoners binnen dezelfde buurt kunnen doorstromen en hun sociale netwerk kunnen behouden.",
+    "effects": [
+      "Doorstroming",
+      "Sociale continuïteit",
+      "Inclusiviteit"
+    ],
+    "domains": [
+      "Gebiedsontwikkeling",
+      "Woonprogramma"
+    ],
+    "targets": [
+      "Alle levensfasen",
+      "Ouderen",
+      "Gezinnen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "9-11",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-002",
+    "theme": "Buurt",
+    "subtheme": "Zorg en voorzieningen",
+    "type": "Programma",
+    "title": "Maak zorgvoorzieningen onderdeel en kruispunt van de buurt",
+    "description": "Plaats zorgfuncties niet geïsoleerd, maar als herkenbaar onderdeel van het dagelijkse buurtnetwerk en combineer ze met wonen en andere voorzieningen.",
+    "effects": [
+      "Nabijheid",
+      "Inclusiviteit",
+      "Ontmoeting"
+    ],
+    "domains": [
+      "Buurt",
+      "Voorzieningencluster"
+    ],
+    "targets": [
+      "Bewoners met zorgvraag",
+      "Buurtbewoners"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "10-11",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-003",
+    "theme": "Algemeen",
+    "subtheme": "Co-creatie",
+    "type": "Procesmaatregel",
+    "title": "Organiseer doorlopende co-creatie via gesprekken, workshops en buurtlabs",
+    "description": "Betrek bewoners niet alleen tijdens één inspraakmoment, maar gedurende het proces via verschillende werkvormen waarin zorgen, gewoontes en prioriteiten worden vertaald naar ontwerpkeuzes.",
+    "effects": [
+      "Eigenaarschap",
+      "Vertrouwen",
+      "Gemeenschapsvorming"
+    ],
+    "domains": [
+      "Ontwerpproces",
+      "Gebiedsontwikkeling"
+    ],
+    "targets": [
+      "Huidige en toekomstige bewoners"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "24-25",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-004",
+    "theme": "Algemeen",
+    "subtheme": "Eigenaarschap",
+    "type": "Beheer- en procesmaatregel",
+    "title": "Borg bewonerszeggenschap ook na oplevering",
+    "description": "Koppel vroege bewonersbetrokkenheid aan blijvende zeggenschap over inrichting, programmering en beheer, zodat gedeelde ruimtes ook op lange termijn van bewoners blijven.",
+    "effects": [
+      "Eigenaarschap",
+      "Continuïteit",
+      "Sociale cohesie"
+    ],
+    "domains": [
+      "Beheer",
+      "Governance",
+      "Collectieve ruimte"
+    ],
+    "targets": [
+      "Bewonerscollectieven"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "25, 34",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-005",
+    "theme": "Woonblok",
+    "subtheme": "Gemeenschappelijke ruimte",
+    "type": "Ruimtelijke ingreep",
+    "title": "Combineer plekken voor samenzijn en terugtrekken binnen één woonvorm",
+    "description": "Ontwerp de gemeenschappelijke woonomgeving met zowel toegankelijke ontmoetingsplekken als rustige plekken waar bewoners zich kunnen terugtrekken.",
+    "effects": [
+      "Keuzevrijheid",
+      "Ontmoeting",
+      "Privacy"
+    ],
+    "domains": [
+      "Woongebouw",
+      "Collectieve woonvorm"
+    ],
+    "targets": [
+      "Bewoners met begeleiding",
+      "Collectieve woonvormen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "31",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-006",
+    "theme": "Buurt",
+    "subtheme": "Zorg in het dagelijks leven",
+    "type": "Stedenbouwkundig principe",
+    "title": "Integreer zorgwoningen midden in een levendige gemengde buurt",
+    "description": "Plaats woningen voor mensen met een zorgvraag tussen reguliere woningen, voorzieningen en dagelijkse activiteiten, zodat zorg niet als afzonderlijke wereld wordt ervaren.",
+    "effects": [
+      "Waardigheid",
+      "Inclusiviteit",
+      "Contact met dagelijks leven"
+    ],
+    "domains": [
+      "Buurt",
+      "Gemengd programma"
+    ],
+    "targets": [
+      "Mensen met zorgvraag",
+      "Ouderen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "34-35",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-007",
+    "theme": "Buurt",
+    "subtheme": "Wooncarrière",
+    "type": "Programma",
+    "title": "Maak een volledige wooncarrière binnen dezelfde buurt mogelijk",
+    "description": "Bied verschillende woningtypen en zorgniveaus zodat bewoners kunnen verhuizen wanneer hun situatie verandert zonder hun sociale netwerk en vertrouwde omgeving te verliezen.",
+    "effects": [
+      "Sociale continuïteit",
+      "Zelfstandigheid",
+      "Doorstroming"
+    ],
+    "domains": [
+      "Buurt",
+      "Woonprogramma"
+    ],
+    "targets": [
+      "Alle levensfasen",
+      "Ouderen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "35",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-008",
+    "theme": "Buurt",
+    "subtheme": "Intergenerationeel wonen",
+    "type": "Programma",
+    "title": "Programmeer wederkerigheid tussen generaties",
+    "description": "Combineer jongere en oudere bewoners en organiseer ruimte voor informele uitwisseling, waarbij verschillende generaties elkaar praktisch en sociaal kunnen ondersteunen.",
+    "effects": [
+      "Wederkerigheid",
+      "Informele zorg",
+      "Sociale cohesie"
+    ],
+    "domains": [
+      "Buurt",
+      "Woongebouw",
+      "Collectieve woonvorm"
+    ],
+    "targets": [
+      "Jongeren",
+      "Ouderen",
+      "Gezinnen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "41-42",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-009",
+    "theme": "Drempelzone",
+    "subtheme": "Privacy",
+    "type": "Ruimtelijke ingreep",
+    "title": "Maak een bufferzone tussen galerij en woonraam",
+    "description": "Creëer afstand of een toe-eigenbare tussenstrook tussen galerij en raam, zodat bewoners privacy ervaren zonder het contact met de route volledig af te sluiten.",
+    "effects": [
+      "Privacy",
+      "Contact",
+      "Toe-eigening"
+    ],
+    "domains": [
+      "Galerij",
+      "Gevelzone"
+    ],
+    "targets": [
+      "Bewoners van galerijwoningen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "50-51",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-010",
+    "theme": "Route",
+    "subtheme": "Verblijf in de ontsluiting",
+    "type": "Ruimtelijke ingreep",
+    "title": "Integreer een vast zitobject in de galerij",
+    "description": "Maak een ingebouwde zitplek onderdeel van de galerij, zodat de ontsluitingsroute ook als korte verblijfs- en ontmoetingsplek kan functioneren.",
+    "effects": [
+      "Ontmoeting",
+      "Verblijf",
+      "Toe-eigening"
+    ],
+    "domains": [
+      "Galerij",
+      "Woongebouw"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "50-51",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-011",
+    "theme": "Woonblok",
+    "subtheme": "Informatief knooppunt",
+    "type": "Inrichting",
+    "title": "Combineer zitplek met prikbord, ruilkast of buurtfunctie",
+    "description": "Koppel een zitplek aan een praktische gedeelde functie die bewoners aanleiding geeft om te stoppen, informatie uit te wisselen en elkaar te spreken.",
+    "effects": [
+      "Ontmoeting",
+      "Uitwisseling",
+      "Gemeenschapsvorming"
+    ],
+    "domains": [
+      "Entree",
+      "Galerij",
+      "Gemeenschappelijke ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "50-51",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-012",
+    "theme": "Woonblok",
+    "subtheme": "Dementievriendelijk wonen",
+    "type": "Ruimtelijk concept",
+    "title": "Ontwerp een herkenbaar dorp-in-het-klein voor bewoners met dementie",
+    "description": "Organiseer kleinschalige huisjes rond een herkenbaar plein met dagelijkse functies en tuinen, zodat bewoners zich kunnen oriënteren en het normale dagelijkse leven kunnen voortzetten.",
+    "effects": [
+      "Herkenning",
+      "Zelfstandigheid",
+      "Ontmoeting",
+      "Veiligheid"
+    ],
+    "domains": [
+      "Zorgbuurt",
+      "Woonzorgomgeving"
+    ],
+    "targets": [
+      "Mensen met dementie",
+      "Mantelzorgers"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "79-80",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-013",
+    "theme": "Woonblok",
+    "subtheme": "Oriëntatie",
+    "type": "Architectonische ingreep",
+    "title": "Gebruik herkenbare woningverschillen als oriëntatiehulp",
+    "description": "Geef woningen of clusters herkenbare kleuren, vormen of details zodat bewoners met cognitieve beperkingen hun woning en route eenvoudiger herkennen.",
+    "effects": [
+      "Oriëntatie",
+      "Zelfstandigheid",
+      "Veiligheid"
+    ],
+    "domains": [
+      "Woonzorgomgeving",
+      "Gevel",
+      "Route"
+    ],
+    "targets": [
+      "Mensen met dementie",
+      "Mensen met cognitieve beperking"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "79-80",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-014",
+    "theme": "Algemeen",
+    "subtheme": "Ontwerpen vanuit mogelijkheden",
+    "type": "Ontwerpprincipe",
+    "title": "Ontwerp vanuit wat bewoners nog wél kunnen",
+    "description": "Baseer ruimtelijke keuzes op resterende vaardigheden en eigen regie in plaats van op beperkingen, zodat bewegen, meedoen en dagelijkse handelingen worden gestimuleerd.",
+    "effects": [
+      "Eigen regie",
+      "Beweging",
+      "Zelfstandigheid"
+    ],
+    "domains": [
+      "Woonzorgomgeving",
+      "Woning",
+      "Buurt"
+    ],
+    "targets": [
+      "Mensen met zorgvraag",
+      "Ouderen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "79-80",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-015",
+    "theme": "Woonblok",
+    "subtheme": "Buurtgerichte collectieve ruimte",
+    "type": "Positionering",
+    "title": "Positioneer het collectieve huis zowel aan het hof als aan de straat",
+    "description": "Geef een gemeenschappelijke ruimte een dubbele oriëntatie naar de interne gemeenschap en de omliggende buurt om de drempel voor wijkactiviteiten en bezoekers te verlagen.",
+    "effects": [
+      "Buurtverbinding",
+      "Ontmoeting",
+      "Toegankelijkheid"
+    ],
+    "domains": [
+      "Woonhof",
+      "Gemeenschappelijke ruimte"
+    ],
+    "targets": [
+      "Bewoners",
+      "Omwonenden"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "84",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-016",
+    "theme": "Woonblok",
+    "subtheme": "Collectieve voorzieningen",
+    "type": "Programma",
+    "title": "Voeg een logeerkamer toe aan de gemeenschappelijke ruimte",
+    "description": "Maak een gedeelde logeerkamer zodat individuele woningen kleiner kunnen zijn en bewoners toch gasten kunnen ontvangen.",
+    "effects": [
+      "Ruimte-efficiëntie",
+      "Gastvrijheid",
+      "Delen"
+    ],
+    "domains": [
+      "Woonhof",
+      "Gemeenschappelijke ruimte"
+    ],
+    "targets": [
+      "Bewoners",
+      "Bezoekers"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "84",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-017",
+    "theme": "Woonblok",
+    "subtheme": "Tijdelijke zorg",
+    "type": "Programma",
+    "title": "Reserveer gedeelde verblijfsruimte voor tijdelijke zorg",
+    "description": "Neem binnen collectieve voorzieningen een flexibele ruimte op voor tijdelijk verblijf of herstel, zonder het woonconcept als zorginstelling te organiseren.",
+    "effects": [
+      "Informele zorg",
+      "Flexibiliteit",
+      "Zelfstandigheid"
+    ],
+    "domains": [
+      "Woonhof",
+      "Gemeenschappelijke ruimte"
+    ],
+    "targets": [
+      "Bewoners met tijdelijke zorgvraag",
+      "Mantelzorgers"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "84",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-018",
+    "theme": "Woonblok",
+    "subtheme": "Gestapelde gemeenschappen",
+    "type": "Programma en beheer",
+    "title": "Organiseer ontmoeting per verdieping in gestapelde woonvormen",
+    "description": "Vertaal hofprincipes naar gestapelde bouw met kleinere sociale eenheden, zoals eetmomenten, appgroepen of gedeelde plekken per verdieping.",
+    "effects": [
+      "Sociale nabijheid",
+      "Gemeenschapsvorming",
+      "Ontmoeting"
+    ],
+    "domains": [
+      "Appartementengebouw",
+      "Gestapelde woonvorm"
+    ],
+    "targets": [
+      "Bewoners van appartementen"
+    ],
+    "source": "INBO",
+    "document": "Zorgzame buurten",
+    "page": "84",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-019",
+    "theme": "Algemeen",
+    "subtheme": "Adaptief ontwikkelen",
+    "type": "Stedenbouwkundig principe",
+    "title": "Reserveer programmatische luchtgaatjes voor toekomstige functies",
+    "description": "Laat in het stedenbouwkundig plan fysieke en programmatische ruimte open om tijdens de ontwikkeling of later nieuwe functies toe te voegen wanneer behoeften veranderen.",
+    "effects": [
+      "Aanpasbaarheid",
+      "Toekomstbestendigheid",
+      "Inclusiviteit"
+    ],
+    "domains": [
+      "Gebiedsontwikkeling",
+      "Masterplan"
+    ],
+    "targets": [
+      "Huidige en toekomstige bewoners"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "5",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-020",
+    "theme": "Algemeen",
+    "subtheme": "Behoefteonderzoek",
+    "type": "Procesmaatregel",
+    "title": "Blijf behoeften gedurende de hele gebiedsontwikkeling onderzoeken",
+    "description": "Herhaal behoefteonderzoek tijdens verschillende ontwikkelfasen, omdat wensen en gebruikersgroepen gedurende langdurige gebiedsontwikkeling kunnen veranderen.",
+    "effects": [
+      "Aansluiting op behoeften",
+      "Adaptiviteit",
+      "Vertrouwen"
+    ],
+    "domains": [
+      "Gebiedsontwikkeling",
+      "Participatie"
+    ],
+    "targets": [
+      "Bewoners",
+      "Gebruikers"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "5-6",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-021",
+    "theme": "Algemeen",
+    "subtheme": "Behoefteonderzoek",
+    "type": "Procesmaatregel",
+    "title": "Combineer kwalitatieve en kwantitatieve participatiemethoden",
+    "description": "Gebruik enquêtes, bijeenkomsten, straatinterviews en andere methoden naast elkaar om ook minder zichtbare groepen en uiteenlopende behoeften te bereiken.",
+    "effects": [
+      "Representativiteit",
+      "Inclusiviteit",
+      "Kennis van gebruik"
+    ],
+    "domains": [
+      "Participatie",
+      "Bestaande en nieuwe buurten"
+    ],
+    "targets": [
+      "Dwarsdoorsnede van bewoners"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "3",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-022",
+    "theme": "Algemeen",
+    "subtheme": "Sociale infrastructuur",
+    "type": "Organisatiemaatregel",
+    "title": "Zet een sociale makelaar of buurtontwikkelaar in",
+    "description": "Gebruik een verbindende professional die bewoners, opdrachtgevers, maatschappelijke organisaties en sociale opgaven aan elkaar koppelt.",
+    "effects": [
+      "Samenwerking",
+      "Sociale infrastructuur",
+      "Toegankelijkheid"
+    ],
+    "domains": [
+      "Gebiedsontwikkeling",
+      "Buurtorganisatie"
+    ],
+    "targets": [
+      "Bewoners",
+      "Lokale organisaties",
+      "Ontwikkelpartijen"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "3, 6",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-023",
+    "theme": "Algemeen",
+    "subtheme": "Langdurig beheer",
+    "type": "Beheermaatregel",
+    "title": "Verbind lokale organisaties langdurig aan programmering en beheer",
+    "description": "Betrek sportclubs, cultuurorganisaties, scholen en wijkverenigingen niet alleen bij het ontwerp, maar ook bij het permanente gebruik en de programmering van voorzieningen.",
+    "effects": [
+      "Continuïteit",
+      "Buurtactiviteiten",
+      "Sociale cohesie"
+    ],
+    "domains": [
+      "Buurtvoorzieningen",
+      "Beheer"
+    ],
+    "targets": [
+      "Lokale organisaties",
+      "Bewoners"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "3",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-024",
+    "theme": "Algemeen",
+    "subtheme": "Ondersteund eigenaarschap",
+    "type": "Governance",
+    "title": "Combineer bewonersinitiatief met structurele publieke ondersteuning",
+    "description": "Ondersteun bottom-up beheer of activiteiten met financiering, mandaat en continuïteit vanuit gemeente of andere institutionele partijen.",
+    "effects": [
+      "Eigenaarschap",
+      "Continuïteit",
+      "Veerkracht"
+    ],
+    "domains": [
+      "Buurtbeheer",
+      "Openbare ruimte"
+    ],
+    "targets": [
+      "Bewonersinitiatieven",
+      "Gemeenten"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "3",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-025",
+    "theme": "Woonblok",
+    "subtheme": "Waardevolle collectieve ruimte",
+    "type": "Positionering",
+    "title": "Plaats een gemeenschappelijke ruimte op een premiumlocatie in het gebouw",
+    "description": "Reserveer bijvoorbeeld de hoogste verdieping of een plek met bijzonder uitzicht voor collectief gebruik, zodat de ruimte aantrekkelijk wordt en bewoners er vanzelf naartoe trekken.",
+    "effects": [
+      "Ontmoeting",
+      "Gebruik",
+      "Gedeeld eigenaarschap"
+    ],
+    "domains": [
+      "Woongebouw",
+      "Gemeenschappelijke ruimte"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "9",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-026",
+    "theme": "Woonblok",
+    "subtheme": "Alledaagse kruisingen",
+    "type": "Positionering",
+    "title": "Plaats bergingen naast elkaar om toevallige ontmoetingen te vergroten",
+    "description": "Groepeer dagelijks gebruikte nevenruimtes zodanig dat bewoners elkaar tijdens gewone routines vaker kruisen.",
+    "effects": [
+      "Toevallige ontmoeting",
+      "Herkenning",
+      "Burencontact"
+    ],
+    "domains": [
+      "Woonblok",
+      "Bergingen",
+      "Route"
+    ],
+    "targets": [
+      "Bewoners"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "10",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-027",
+    "theme": "Woonblok",
+    "subtheme": "Actieve gemengde plint",
+    "type": "Programma",
+    "title": "Combineer kinderopvang, sport, horeca en lokale ondernemers in de plint",
+    "description": "Maak de plint multifunctioneel en dagelijks actief met verschillende publieke en buurtgerichte functies die uiteenlopende groepen aantrekken.",
+    "effects": [
+      "Levendigheid",
+      "Ontmoeting",
+      "Inclusiviteit"
+    ],
+    "domains": [
+      "Plint",
+      "Gemengd woongebouw"
+    ],
+    "targets": [
+      "Bewoners",
+      "Kinderen",
+      "Ondernemers",
+      "Bezoekers"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "10",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-028",
+    "theme": "Woonblok",
+    "subtheme": "Intergenerationele voorzieningen",
+    "type": "Programma",
+    "title": "Combineer kinderopvang en dagopvang voor ouderen",
+    "description": "Plaats voorzieningen voor jonge kinderen en oudere bewoners bij elkaar om informele intergenerationele ontmoetingen en gedeeld gebruik mogelijk te maken.",
+    "effects": [
+      "Intergenerationeel contact",
+      "Wederkerigheid",
+      "Levendigheid"
+    ],
+    "domains": [
+      "Plint",
+      "Wijkvoorziening",
+      "Woongebouw"
+    ],
+    "targets": [
+      "Kinderen",
+      "Ouderen",
+      "Mantelzorgers"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "9",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-029",
+    "theme": "Buurt",
+    "subtheme": "Tijdelijke programmering",
+    "type": "Programma en fasering",
+    "title": "Ontwerp tijdelijke gebouwen voor een tweede sociale functie",
+    "description": "Maak tijdelijke huisvesting demontabel of aanpasbaar zodat gebouwen later elders opnieuw kunnen worden ingezet voor studenten, statushouders of mensen met een zorgvraag.",
+    "effects": [
+      "Circulariteit",
+      "Sociale flexibiliteit",
+      "Betaalbaarheid"
+    ],
+    "domains": [
+      "Tijdelijke woningbouw",
+      "Gebiedsontwikkeling"
+    ],
+    "targets": [
+      "Spoedzoekers",
+      "Studenten",
+      "Statushouders",
+      "Mensen met zorgvraag"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "9",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-030",
+    "theme": "Buurt",
+    "subtheme": "Fysiek en digitaal netwerk",
+    "type": "Sociale infrastructuur",
+    "title": "Combineer een buurthuis, deeltuin en digitaal buurtplatform",
+    "description": "Koppel een fysieke ontmoetingsplek en gedeelde buitenruimte aan een digitaal communicatiekanaal voor activiteiten, hulpvragen en buurtinformatie.",
+    "effects": [
+      "Verbinding",
+      "Activiteiten",
+      "Toegankelijkheid"
+    ],
+    "domains": [
+      "Buurt",
+      "Buurthuis",
+      "Collectieve tuin"
+    ],
+    "targets": [
+      "Oude en nieuwe bewoners"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "10",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-031",
+    "theme": "Algemeen",
+    "subtheme": "Sociale impact",
+    "type": "Evaluatiemaatregel",
+    "title": "Onderzoek onbedoelde sociale effecten op de lange termijn",
+    "description": "Beoordeel naast beoogde effecten ook risico's zoals uitsluiting, overbelasting, betaalbaarheid en eenzijdige bewonerssamenstelling, en pas plannen daarop aan.",
+    "effects": [
+      "Sociale rechtvaardigheid",
+      "Adaptiviteit",
+      "Veerkracht"
+    ],
+    "domains": [
+      "Gebiedsontwikkeling",
+      "Evaluatie"
+    ],
+    "targets": [
+      "Ontwikkelpartijen",
+      "Gemeenten",
+      "Bewoners"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "4",
+    "status": "Nieuw toegevoegd"
+  },
+  {
+    "id": "NEW-032",
+    "theme": "Algemeen",
+    "subtheme": "Monitoring",
+    "type": "Evaluatiemaatregel",
+    "title": "Combineer sociale indicatoren met kwalitatief gebruiksonderzoek",
+    "description": "Gebruik meetinstrumenten voor leefbaarheid, gezondheid en brede welvaart samen met interviews en observaties om de ervaren leefkwaliteit te volgen.",
+    "effects": [
+      "Leren",
+      "Adaptiviteit",
+      "Sociale kwaliteit"
+    ],
+    "domains": [
+      "Monitoring",
+      "Buurt",
+      "Gebiedsontwikkeling"
+    ],
+    "targets": [
+      "Bewoners",
+      "Beheer- en ontwikkelpartijen"
+    ],
+    "source": "BPD",
+    "document": "Sociale duurzaamheid",
+    "page": "4",
+    "status": "Nieuw toegevoegd"
+  }
+]
